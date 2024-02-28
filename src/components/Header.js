@@ -13,22 +13,23 @@ export default function Header() {
         </div>
         <nav className="hidden md:block">
             <ul className="flex text-white ">
-                <li><a href="/">Home</a></li>
-                <li><a href="/#about">About</a></li>
-                <li><a href="/#about">Technical Skills</a></li>
-                <li><a href="/#projects">Professional Experience</a></li>
-                <li><a href="/#resume">Resume</a></li>
-                <li><a href="/#contact">contact</a></li>
+
+            <li><a href={process.env.PUBLIC_URL +'/'}>Home</a></li>
+                <li><a href={process.env.PUBLIC_URL +'/#about'}>About</a></li>
+                <li><a href={process.env.PUBLIC_URL +'/#about'}>Technical Skills</a></li>
+                <li><a href={process.env.PUBLIC_URL +'/#projects'}>Professional Experience</a></li>
+                <li><a href={process.env.PUBLIC_URL + '/#resume'}>Resume</a></li>
+                <li><a href={process.env.PUBLIC_URL +'/#contact'}>Contact</a></li>
+                
             </ul>
         </nav>
         {toggleMenu && <nav className="block md:hidden ">
             <ul onClick={() => setToggleMenu(!toggleMenu)} className="flex flex-col text-white  mobile-nav">
-                <li><a href="/">Home</a></li>
-                <li><a href="/#about">About</a></li>
-                <li><a href="/#about">Technical Skills</a></li>
-                <li><a href="/#projects">Professional Experience</a></li>
-                <li><a href="/#resume">Resume</a></li>
-                <li><a href="/#contact">contact</a></li>
+            <li><a href={process.env.PUBLIC_URL +'/#about'}>About</a></li>
+                <li><a href={process.env.PUBLIC_URL +'/#about'}>Technical Skills</a></li>
+                <li><a href={process.env.PUBLIC_URL +'/#projects'}>Professional Experience</a></li>
+                <li><a href={process.env.PUBLIC_URL + '/#resume'}>Resume</a></li>
+                <li><a href={process.env.PUBLIC_URL +'/#contact'}>Contact</a></li>
             </ul>
         </nav>}
         <button onClick={() => setToggleMenu(!toggleMenu)} className='block md:hidden'><Bars3Icon className='text-white h-5' /></button>
