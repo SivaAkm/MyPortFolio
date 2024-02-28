@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/MyPortFolio/static/css/main.80f60203.css",
-    "main.js": "/github.io/MyPortFolio/static/js/main.23465189.js",
-    "static/js/453.767a50ce.chunk.js": "/github.io/MyPortFolio/static/js/453.767a50ce.chunk.js",
-    "static/media/about.png": "/github.io/MyPortFolio/static/media/about.619ff0b319a55d0c05b1.png",
-    "static/media/hero.png": "/github.io/MyPortFolio/static/media/hero.f14f30c6d01a97df04f6.png",
-    "static/media/resume.jpg": "/github.io/MyPortFolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
-    "static/media/Sivasubramani.jpeg": "/github.io/MyPortFolio/static/media/Sivasubramani.c35d8cacbd507a0fffc7.jpeg",
-    "static/media/food-ecommerce.jpg": "/github.io/MyPortFolio/static/media/food-ecommerce.326353bf18adc9f60576.jpg",
-    "static/media/ecommerce-websites.jpg": "/github.io/MyPortFolio/static/media/ecommerce-websites.a5d17e54a5ffb19ff686.jpg",
-    "static/media/website-blog.jpg": "/github.io/MyPortFolio/static/media/website-blog.34169abf2d417858685b.jpg",
-    "index.html": "/github.io/MyPortFolio/index.html",
-    "main.80f60203.css.map": "/github.io/MyPortFolio/static/css/main.80f60203.css.map",
-    "main.23465189.js.map": "/github.io/MyPortFolio/static/js/main.23465189.js.map",
-    "453.767a50ce.chunk.js.map": "/github.io/MyPortFolio/static/js/453.767a50ce.chunk.js.map"
+    "main.css": "/MyPortFolio/static/css/main.80f60203.css",
+    "main.js": "/MyPortFolio/static/js/main.cdf7f569.js",
+    "static/js/453.767a50ce.chunk.js": "/MyPortFolio/static/js/453.767a50ce.chunk.js",
+    "static/media/about.png": "/MyPortFolio/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/MyPortFolio/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/MyPortFolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/Sivasubramani.jpeg": "/MyPortFolio/static/media/Sivasubramani.c35d8cacbd507a0fffc7.jpeg",
+    "static/media/food-ecommerce.jpg": "/MyPortFolio/static/media/food-ecommerce.326353bf18adc9f60576.jpg",
+    "static/media/ecommerce-websites.jpg": "/MyPortFolio/static/media/ecommerce-websites.a5d17e54a5ffb19ff686.jpg",
+    "static/media/website-blog.jpg": "/MyPortFolio/static/media/website-blog.34169abf2d417858685b.jpg",
+    "index.html": "/MyPortFolio/index.html",
+    "main.80f60203.css.map": "/MyPortFolio/static/css/main.80f60203.css.map",
+    "main.cdf7f569.js.map": "/MyPortFolio/static/js/main.cdf7f569.js.map",
+    "453.767a50ce.chunk.js.map": "/MyPortFolio/static/js/453.767a50ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80f60203.css",
-    "static/js/main.23465189.js"
+    "static/js/main.cdf7f569.js"
   ]
 }
